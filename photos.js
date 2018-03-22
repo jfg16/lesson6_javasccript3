@@ -17,9 +17,13 @@ var figureCount = 3;
 /* This method adds src values to img elements based on order specified in photoOrder array             */
 /********************************************************************************************************/
 function populateFigures() {
-
-
-
+    var filename;
+    var currentFig;
+        for(var i=1; i<4; i++){
+            filename = "images/IMG_0" + photoOrder[i] + "sm.jpg"; 
+            currentFig = document.getElementsByTagName("img")[i - 1]; 
+            currentFig.src = filename;
+        }//end of for loop
 
 }//end of populateFigures function
 
