@@ -46,7 +46,7 @@ body {
    width: 960px;
    margin: 0 auto;
    font-family: verdana, arial, helvetica, sans-serif;
-   background: black;
+   background: beige;
    position: relative;
 }
 
@@ -86,7 +86,7 @@ a:active {
 
 /* page header */
 header {
-   color: white;
+   color: black;
    font-size: 3.7em;
 }
 
