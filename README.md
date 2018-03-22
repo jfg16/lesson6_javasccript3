@@ -13,8 +13,7 @@ Jonathan Garcia
 Learned DOM methods to be able to edit and add elements to the webpage
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jfg16.github.io/lesson6_javasccript3/
 
 ### Lessons Learned in the Assignment:
 1. Use the methods to be able to access ids, tags, class or selector.
